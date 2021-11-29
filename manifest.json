@@ -1,8 +1,0 @@
-{
-  "name": "Nibble",
-  "short_name": "Nibble",
-  "theme_color": "#9570ed",
-  "background_color": "#5f7ae9",
-  "display": "standalone",
-  "orientation": "portrait"
-}
